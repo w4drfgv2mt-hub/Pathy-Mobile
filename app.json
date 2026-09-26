@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "باثي",
+    "slug": "pathy-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "userInterfaceStyle": "automatic",
+      "supportsRTL": true
+    },
+    "android": {
+      "userInterfaceStyle": "automatic",
+      "supportsRTL": true
+    },
+    "extra": {
+      "supportsRTL": true,
+      "rtl": true
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar",
+      "expo-asset"
+    ]
+  }
+}
